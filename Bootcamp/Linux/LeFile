@@ -1,0 +1,21 @@
+cd 
+vim
+apt upgrade
+rm
+mkdir
+rmdir
+ls -la
+sudo 
+touch 
+clear
+exit
+branch
+checkout
+commit -m
+add
+git push 
+clone
+cat
+status
+pull
+
